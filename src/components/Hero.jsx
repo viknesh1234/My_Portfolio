@@ -15,7 +15,7 @@ const Hero = () => {
     <section className='relative'>
       <div className='max-w-7xl mx-auto'>
         <div className='flex flex-col md:flex-row items-center lg:h-[90vh] justify-between'>
-          
+
           {/* Text Section */}
           <div className='md:w-1/2 mb-8 md:mb-0 flex flex-col space-y-4 px-6 lg:px-0 lg:mt-0 mt-10'>
             <h1 className='lg:text-7xl text-4xl font-bold lg:leading-snug'>
@@ -27,7 +27,7 @@ const Hero = () => {
             </p>
             <button className='bg-black text-white px-3 py-2 w-max rounded-md'>
               <a
-                href="https://drive.google.com/file/d/1emAz6jw_Qr87OqpQ19RXh_KcRsX7FNO6/view?usp=drivesdk"
+                href="https://drive.google.com/file/d/1lmR77-CXCILQw7JfXnkELLkQFetwUp0A/view?usp=drivesdk"
                 download
                 target='_blank'
                 rel='noopener noreferrer'
