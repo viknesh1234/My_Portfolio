@@ -7,6 +7,7 @@ import linkedin from '../assets/linkedin.png';
 import reduxLogo from '../assets/Redux.png';
 import tailwind from '../assets/Tailwind Css.png';
 import Express from '../assets/Express.png';
+import ReactLogo from '../assets/React.png';
 import NodeLogo from '../assets/NodeLogo.png';
 import NextJs from '../assets/NextJs.png';
 
@@ -49,8 +50,9 @@ const Hero = () => {
 
             {/* Tech Logos - Only on small screens */}
             <img src={reduxLogo} alt="Redux" className='absolute w-10 top-36 left-0 rounded-full md:hidden' />
-            <img src={NodeLogo} alt="Node" className='absolute w-10 top-0 right-5 md:hidden' />
+            <img src={NextJs} alt="Node" className='absolute w-10 top-0 right-5 md:hidden' />
             <img src={Express} alt="Express" className='absolute w-10 rounded-full right-0 bottom-40 md:hidden' />
+             <img src={ReactLogo} alt="Redux" className='absolute w-10 top-30 left-0 rounded-full md:hidden' />
           </div>
         </div>
       </div>
