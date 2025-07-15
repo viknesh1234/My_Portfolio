@@ -14,7 +14,7 @@ const Projects = () => {
       title: 'E-Commerce Website',
       desc: 'A full-stack application demonstrating effective integration of front-end and back-end technologies.',
       image: Portfolio,
-      live: "#",
+      live: "https://ecommerce-ca37.onrender.com/home",
       github: "https://github.com/viknesh1234/Springboot-ecommerce"
     },
     {
