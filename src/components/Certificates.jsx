@@ -17,6 +17,7 @@ import Cloud from "../assets/Cloud.png";
 import Secondprice from "../assets/Secondprice.png";
 import Internship from "../assets/Internship.png";
 import Ksr from "../assets/Ksr.png";
+import RestapiSpring from "../assets/RestapiSpring.png";
 import Iee from "../assets/Iee.png";
 import SriShti from "../assets/SriShti.png";
 import Online from "../assets/Online.png";
@@ -28,6 +29,7 @@ const Certificates = () => {
         { title: "Cloud Computing", institution: "NPTEL", type: "Offline Exam", image: Cloud },
         { title: "Internship", institution: "CodeTech Technology", type: "Course", image: CodeTech },
         { title: "Internship", institution: "Zen1 Tech Park", type: "Course", image: Internship },
+        { title: "WorkShop", institution: "FirstBit Solutions", type: "WorkShop", image: RestapiSpring },
         { title: "Presentation", institution: "Mahendra Engineering College", type: "Event", image: Secondprice },
         { title: "Hackathon", institution: "SNS College Coimbatore", type: "Event", image: Google },
         { title: "Workshop", institution: "KSR IET College Tiruchengode", type: "Event", image: Ksr },
